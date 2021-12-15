@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @arminforoughi
 - 👀 I’m interested in machine learning algorithm
 - 🌱 I’m currently learning data science 
-
 EDUCATION
 University of California, San Diego San Diego, CA
-Bachelors of Science in Biochemistry with specialization in chemistry /Minor in Data Science September 2018 - June 2021
-Relevant Coursework:computational concepts (recursion, OOP), data structures (arrays, linked lists, stacks, queues, priority queues, heaps, binary trees, and hash
+Bachelors of Science in Biochemistry with specialization in chemistry / Minor in Data Science September 2018 - June 2021
+Relevant Coursework:
+computational concepts (recursion, OOP), data structures (arrays, linked lists, stacks, queues, priority queues, heaps, binary trees, and hash
 tables), machine learning (Bayesian Decision Theory, SVMs, linear and Nonlinear Optimization, Deep Learning (CNNs, RNNs)), graph theory,
 probability, abstract data types, interfaces, algorithms and complexity, Spectrometry(NMR, IR, Mass Spec), Quantum Mechanics.
 SKILLS
@@ -14,7 +14,7 @@ SKILLS
 • Computational & Visualization Libraries: Numpy, Pandas, Sklearn, TensorFlow, PyTorch, Scipy, Seaborn, OpenCV
 WORK EXPERIENCE
 University of California San Diego San Diego, CA
-Machine Learning Researcher September 2021 - present
+Laboratory Junior Data Scientist September 2021 - present
 • Responsibilities: I perform a variety of data analysis related tasks, such as making graphs, image processing and building machine learning
 algorithms. I mainly work with .Star and .MRC format files developed from a Cryogenic electron microscopy and run my algorithm in the
 schools supercomputer through ssh cloud computing.
@@ -47,7 +47,6 @@ UCSF bioengineering Department of Surgery San Francisco, CA
 Intern July 2018 – September 2018
 • Responsibilities: Assist on building a surgical endoscopy with three degrees of freedom. Specified in improving lifting force and strength of
 materials. Designing knuckles with AutoCAD and 3D printing them.
-
 <!---
 arminforoughi/arminforoughi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
