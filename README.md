@@ -32,7 +32,7 @@ used. A good particle is when it stays with one MRC and a bad one alters between
 runs to form an MRC, and uses sigmoid activation function for binary classification to Identify good versus bad particles.
 
 #### University of California San Diego School of Pharmacy San Diego, CA
-Student intern January 2019 - January 2020
+Student intern 
 - Data analysis Internship: To research unknown adverse of effects of drugs using the FAERS (FDA Adverse Event Reporting System) data
 base, and find any new and crucial side effects of drugs by writing filter functions on Linux to search for a unique scenario of drug usage.
 - Analysing MDMA related deaths: There were nearly 50 deaths with MDMA usage, but after extensive research, we found out that less than
