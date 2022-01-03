@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @arminforoughi
+Hi, I’m @arminforoughi
 - 👀 I’m interested in machine learning algorithm
 - 🌱 I’m currently learning data science 
 - 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-EDUCATION
+# EDUCATION
 University of California, San Diego San Diego, CA
 Bachelors of Science in Biochemistry with specialization in chemistry / Minor in Data Science September 2018 - June 2021
 Relevant Coursework:
