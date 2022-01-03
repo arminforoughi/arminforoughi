@@ -1,10 +1,8 @@
-Hi, I’m @arminforoughi
-- 👀 I’m interested in machine learning algorithm
-- 🌱 I’m currently learning data science 
-- 
+Hi, my name is Armin Foroughi, I'm a machine learning researcher in Biochemistry. 
+
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-# EDUCATION
+## EDUCATION
 University of California, San Diego San Diego, CA
 Bachelors of Science in Biochemistry with specialization in chemistry / Minor in Data Science September 2018 - June 2021
 Relevant Coursework:
@@ -15,7 +13,7 @@ SKILLS
 • Languages: Python, Java, SQL, R, C++, Bash, Git, Octave
 • Cloud Computing: Amazon Web Services
 • Computational & Visualization Libraries: Numpy, Pandas, Sklearn, TensorFlow, PyTorch, Scipy, Seaborn, OpenCV
-WORK EXPERIENCE
+##WORK EXPERIENCE
 University of California San Diego San Diego, CA
 Laboratory Junior Data Scientist September 2021 - present
 • Responsibilities: I perform a variety of data analysis related tasks, such as making graphs, image processing and building machine learning
