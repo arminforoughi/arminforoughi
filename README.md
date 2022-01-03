@@ -6,10 +6,10 @@ Hi, my name is Armin Foroughi, I'm a machine learning researcher in Biochemistry
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 ## EDUCATION
-- University of California, San Diego San Diego, CA /a
-Bachelors of Science in Biochemistry with specialization in chemistry / Minor in Data Science September 2018 - June 2021
-Relevant Coursework:
-- computational concepts (recursion, OOP), data structures (arrays, linked lists, stacks, queues, priority queues, heaps, binary trees, and hash
+- University of California, San Diego San Diego, CA
+- Bachelors of Science in Biochemistry with specialization in chemistry / Minor in Data Science September 2018 - June 2021
+- Relevant Coursework:
+computational concepts (recursion, OOP), data structures (arrays, linked lists, stacks, queues, priority queues, heaps, binary trees, and hash
 tables), machine learning (Bayesian Decision Theory, SVMs, linear and Nonlinear Optimization, Deep Learning (CNNs, RNNs)), graph theory,
 probability, abstract data types, interfaces, algorithms and complexity, Spectrometry(NMR, IR, Mass Spec), Quantum Mechanics.
 
