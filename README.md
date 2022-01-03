@@ -7,7 +7,7 @@ Hi, my name is Armin Foroughi, I'm a machine learning researcher in Biochemistry
   
 ## EDUCATION
 - University of California, San Diego San Diego, CA
-- Bachelors of Science in Biochemistry with specialization in chemistry / Minor in Data Science September 2018 - June 2021
+Bachelors of Science in Biochemistry with specialization in chemistry / Minor in Data Science September 2018 - June 2021
 - Relevant Coursework:
 computational concepts (recursion, OOP), data structures (arrays, linked lists, stacks, queues, priority queues, heaps, binary trees, and hash
 tables), machine learning (Bayesian Decision Theory, SVMs, linear and Nonlinear Optimization, Deep Learning (CNNs, RNNs)), graph theory,
