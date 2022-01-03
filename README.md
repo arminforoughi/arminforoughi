@@ -18,7 +18,7 @@ probability, abstract data types, interfaces, algorithms and complexity, Spectro
 - Cloud Computing: Amazon Web Services
 - Computational & Visualization Libraries: Numpy, Pandas, Sklearn, TensorFlow, PyTorch, Scipy, Seaborn, OpenCV
 ## WORK EXPERIENCE
-- ### University of California San Diego San Diego, CA
+### University of California San Diego San Diego, CA
 Laboratory Junior Data Scientist 
 - Responsibilities: I perform a variety of data analysis related tasks, such as making graphs, image processing and building machine learning
 algorithms. I mainly work with .Star and .MRC format files developed from a Cryogenic electron microscopy and run my algorithm in the
