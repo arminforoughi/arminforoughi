@@ -18,8 +18,8 @@ probability, abstract data types, interfaces, algorithms and complexity, Spectro
 - Cloud Computing: Amazon Web Services
 - Computational & Visualization Libraries: Numpy, Pandas, Sklearn, TensorFlow, PyTorch, Scipy, Seaborn, OpenCV
 ## WORK EXPERIENCE
-### University of California San Diego San Diego, CA
-Machine learning researcher and 
+#### University of California San Diego San Diego, CA
+Machine learning researcher
 - Responsibilities: I perform a variety of data analysis related tasks, such as making graphs, image processing and building machine learning
 algorithms. I mainly work with .Star and .MRC format files developed from a Cryogenic electron microscopy and run my algorithm in the
 schools supercomputer through ssh cloud computing.
@@ -30,3 +30,10 @@ creates an ordered single line of all MRCs that will be used to construct a 3D m
 algorithm that uses a three layer neural network to identify the best particles that go in each MRC and the bad particles that should not be
 used. A good particle is when it stays with one MRC and a bad one alters between MRCs. The algorithm looks at each iteration that CryoEm
 runs to form an MRC, and uses sigmoid activation function for binary classification to Identify good versus bad particles.
+
+#### University of California San Diego School of Pharmacy San Diego, CA
+Student intern January 2019 - January 2020
+- Data analysis Internship: To research unknown adverse of effects of drugs using the FAERS (FDA Adverse Event Reporting System) data
+base, and find any new and crucial side effects of drugs by writing filter functions on Linux to search for a unique scenario of drug usage.
+- Analysing MDMA related deaths: There were nearly 50 deaths with MDMA usage, but after extensive research, we found out that less than
+5 were directly related to MDMA.
