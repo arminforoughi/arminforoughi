@@ -3,7 +3,7 @@ Hi, my name is Armin Foroughi, I'm a machine learning researcher in Biochemistry
 <a href="https://www.linkedin.com/in/arminforoughi/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 ## EDUCATION
 University of California, San Diego San Diego, CA
